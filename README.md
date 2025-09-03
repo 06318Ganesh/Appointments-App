@@ -68,7 +68,7 @@ npm >= 8
 
 Installation
 # Clone the repository
-git clone https://github.com/<your-username>/appointment-design.git
+git clone https://github.com/<06318Ganesh>/appointment-design.git
 cd appointment-design
 
 # Install dependencies
@@ -78,7 +78,7 @@ npm install
 npm start
 
 
-Open your browser → http://localhost:3000
+Open your browser → https://ganeshmaruthi.ccbp.tech/
  🎉
 
 🔧 Build for Production
